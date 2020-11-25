@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="cloud_cloudio-cloud-backend-mongo-influx_main" target="1.8" />
+      <module name="cloud_cloudio-cloud-backend-mongo-influx_test" target="1.8" />
+      <module name="cloud_cloudio-cloud-core_main" target="1.8" />
+      <module name="cloud_cloudio-cloud-core_test" target="1.8" />
+      <module name="cloudio-cloud-backend-mongo-influx_main" target="1.8" />
+      <module name="cloudio-cloud-backend-mongo-influx_main~1" target="1.8" />
+      <module name="cloudio-cloud-backend-mongo-influx_test" target="1.8" />
+      <module name="cloudio-cloud-backend-mongo-influx_test~1" target="1.8" />
+      <module name="cloudio-cloud-core_main" target="1.8" />
+      <module name="cloudio-cloud-core_test" target="1.8" />
+      <module name="cloudio-cloud-run_main" target="1.8" />
+      <module name="cloudio-cloud-run_test" target="1.8" />
+      <module name="cloudio-endpoint-java_main" target="1.7" />
+      <module name="cloudio-endpoint-java_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
