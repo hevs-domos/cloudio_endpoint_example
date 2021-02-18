@@ -7,7 +7,7 @@ public class MyEndpoint implements Runnable, CloudioEndpointListener {
         try{
             //creating the cloud.io endpoint, you can also give another name and place the uuid
             // in the properties file
-            myEndpoint = new CloudioEndpoint("2225e914-4f3b-46d9-9236-c0aedce50d5f");
+            myEndpoint = new CloudioEndpoint("telemes-bellevue");
 
             myEndpoint.addEndpointListener(this);
 
